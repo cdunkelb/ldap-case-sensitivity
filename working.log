@@ -1,0 +1,37 @@
+{"level":"info","msg":"connecting to db ...","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"beginning sync of all user accounts","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"creating set of current users","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"not searching for new users because jit provisioning is enabled","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"beginning sync of all memberships","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"beginning sync of system admin users","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"number of current system admin users synced with LDAP: 0","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"Searching group: cn=ucpadmins,ou=groups,dc=test,dc=com for attr: uniqueMember","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"number of system admin users found via LDAP search: 3","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"system admin users added: 1","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"system admin users removed: 0","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"system admin users unchanged: 0","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"system admin users not synced: 2","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"beginning sync of team members","org":"dev","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"found 0 teams to sync","org":"dev","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"beginning sync of team members","org":"docker-datacenter","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"found 0 teams to sync","org":"docker-datacenter","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"beginning sync of team members","org":"testorg","time":"2018-10-17T17:40:49Z"}
+
+{"go.version":"go1.9.4","instance.id":"265d7d7e-9ca2-445a-8a42-92b72aeed7ea","level":"info","msg":"found 0 teams to sync","org":"testorg","time":"2018-10-17T17:40:49Z"}

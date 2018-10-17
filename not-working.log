@@ -1,0 +1,21 @@
+{"level":"info","msg":"connecting to db ...","time":"2018-10-17T17:38:27Z"}
+
+{"go.version":"go1.9.4","instance.id":"3d656576-61ce-408a-bc67-21ef0f740cee","level":"info","msg":"beginning sync of all user accounts","time":"2018-10-17T17:38:27Z"}
+
+{"go.version":"go1.9.4","instance.id":"3d656576-61ce-408a-bc67-21ef0f740cee","level":"info","msg":"creating set of current users","time":"2018-10-17T17:38:27Z"}
+
+{"go.version":"go1.9.4","instance.id":"3d656576-61ce-408a-bc67-21ef0f740cee","level":"info","msg":"not searching for new users because jit provisioning is enabled","time":"2018-10-17T17:38:27Z"}
+
+{"go.version":"go1.9.4","instance.id":"3d656576-61ce-408a-bc67-21ef0f740cee","level":"info","msg":"beginning sync of all memberships","time":"2018-10-17T17:38:27Z"}
+
+{"go.version":"go1.9.4","instance.id":"3d656576-61ce-408a-bc67-21ef0f740cee","level":"info","msg":"beginning sync of system admin users","time":"2018-10-17T17:38:27Z"}
+
+{"go.version":"go1.9.4","instance.id":"3d656576-61ce-408a-bc67-21ef0f740cee","level":"info","msg":"number of current system admin users synced with LDAP: 0","time":"2018-10-17T17:38:27Z"}
+
+{"go.version":"go1.9.4","instance.id":"3d656576-61ce-408a-bc67-21ef0f740cee","level":"info","msg":"Searching group: cn=ucpadmins,ou=groups,dc=test,dc=com for attr: uniquemember","time":"2018-10-17T17:38:27Z"}
+
+{"go.version":"go1.9.4","instance.id":"3d656576-61ce-408a-bc67-21ef0f740cee","level":"info","msg":"number of system admin users found via LDAP search: 0","time":"2018-10-17T17:38:27Z"}
+
+{"go.version":"go1.9.4","instance.id":"3d656576-61ce-408a-bc67-21ef0f740cee","level":"fatal","msg":"unable to sync all memberships: unable to sync system admins: unable to find system admin users: search found no users","time":"2018-10-17T17:38:27Z"}
+
+
